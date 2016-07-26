@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# vim cache
+*.swp
+
+# pycharm files
+.idea/
+
+# Gunicorn log
+*.log
